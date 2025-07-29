@@ -1,6 +1,6 @@
 # Java Code Smells – Ejemplos y Refactorizaciones
 
-Este repositorio contiene ejemplos **educativos y prácticos** de *code smells* en Java, también conocidos como **malos olores de código**. Cada ejemplo incluye un caso en un package con el nombre del mal olor y la palabra**"Before"** (antes del refactor) y **"After"** (después del refactor), con el objetivo de demostrar cómo mejorar la calidad del software.
+Este repositorio contiene ejemplos **educativos y prácticos** de *code smells* en Java, también conocidos como **malos olores de código**. Cada ejemplo incluye un caso en un package con el nombre del mal olor y la palabra **"Before"** (antes del refactor) y **"After"** (después del refactor), con el objetivo de demostrar cómo mejorar la calidad del software.
 
 > Los code smells no son bugs, pero son síntomas de mal diseño que dificultan el mantenimiento, la comprensión y la evolución del código.
 
